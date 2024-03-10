@@ -1,2 +1,2 @@
-# valantis test task
+# valantis-task
 
